@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------
-// Author:
+// Author: Kevin Lunden
 // Course: CPSC 223, Spring 2020
 // Assign: 8
 // File:   hw8_test.cpp

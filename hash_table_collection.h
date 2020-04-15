@@ -36,7 +36,7 @@ public:
   // add a new key-value pair into the collection 
   void add(const K& a_key, const V& a_val);
 
-  // remove a key-value pair from the collectiona
+  // remove a key-value pair from the collection
   void remove(const K& a_key);
 
   // find and return the value associated with the key
